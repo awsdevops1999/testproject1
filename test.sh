@@ -1,0 +1,2 @@
+who
+uname -a
